@@ -1,2 +1,14 @@
-# blazor-datagrid-customize-column-header
-This sample was created to customize the DataGrid component header content
+# Blazor DataGrid - Column Header Customization
+
+This sample explains about how to customize the Blazor DataGrid component header content.
+
+## Prerequisites
+
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
